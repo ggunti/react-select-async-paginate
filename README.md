@@ -2,9 +2,11 @@
 [![Build Status](https://img.shields.io/travis/vtaits/react-select-async-paginate.svg?style=flat)](https://travis-ci.org/vtaits/react-select-async-paginate)
 [![codecov.io](https://codecov.io/gh/vtaits/react-select-async-paginate/branch/master/graph/badge.svg)](https://codecov.io/gh/vtaits/react-select-async-paginate)
 
-# react-select-async-paginate
+# react-select-async-paginate-2
 
 Wrapper above `react-select` that supports pagination on menu scroll.
+
+# It is actually the [react-select-async-paginate](https://github.com/vtaits/react-select-async-paginate) package from <b>vtaits</b> with the only difference that it contains the fix for the cache infinite loading issue described and solved by <b>braden-m</b> [here](https://github.com/vtaits/react-select-async-paginate/pull/19) - Thank You!
 
 ## Sandbox examples
 
@@ -27,13 +29,13 @@ Wrapper above `react-select` that supports pagination on menu scroll.
 ## Installation
 
 ```
-npm install react-select react-select-async-paginate
+npm install react-select react-select-async-paginate-2
 ```
 
 or
 
 ```
-yarn add react-select react-select-async-paginate
+yarn add react-select react-select-async-paginate-2
 ```
 
 ## Usage
